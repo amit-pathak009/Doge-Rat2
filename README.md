@@ -87,7 +87,7 @@ https://shivaya-dav.github.io/dogeweb/
 ![App Screenshot](https://999xprofit.com/dogs/15.jpg)
 
 ### ❤️Thank you Supporters❤️
-[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/shivaya-dav/DogeRat)](https://github.com/shivaya-dav/DogeRat/stargazers)
+[![Stargazers repo roster for @trhacknon/DogeRat](https://reporoster.com/stars/dark/shivaya-dav/DogeRat)](https://github.com/trhacknon/DogeRat2/stargazers)
 ## 🔗 CONTACT
 [![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/shivayadavv)
 
